@@ -103,11 +103,11 @@ Here are some things about me:
 
 <img 
     align="left" 
-    alt="Lean Six Sigma Green Belt"
-    title="Lean Six Sigma Green Belt" 
+    alt="Lean Six Sigma"
+    title="Lean Six Sigma" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://upload.wikimedia.org/wikipedia/commons/b/b9/Six_sigma_A.svg
+    src=https://www.abstb.com/wp-content/uploads/2022/10/greenb-6.svg
 />
 
 <br/>
