@@ -2,7 +2,7 @@
 
 **`Mechanical Engineer in career transition.`**
 
-Hello, how are you? Great to see you here! 😁 \
+Hey, how are you? Great to see you here! 😁 \
 My name is Renan, I'm Portuguese (EU citizen) and originally from São Paulo, Brazil, one of the largest metropolises in the world. 🌆 \
 Currently, I'm living somewhere in Europe 🌍, I'm passionate about technology and study programming and agile methodologies.
 Here are some things about me: 
