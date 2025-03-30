@@ -119,7 +119,7 @@ Here are some things about me:
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=R3N4N-147&show_icons=true&theme=great-gatsby&include_all_commits=true" 
   />
@@ -127,7 +127,7 @@ Here are some things about me:
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3N4N-147&theme=great-gatsby&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
