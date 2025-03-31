@@ -90,7 +90,7 @@ Here are some things about me:
 <br/>
 <br/>
 
-### Methodologies
+### Methodologies & Frameworks
 
 <img 
     align="left" 
@@ -121,14 +121,14 @@ Here are some things about me:
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=R3N4N-147&show_icons=true&theme=great-gatsby&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=R3N4N-147&show_icons=true&theme=great-gatsby" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3N4N-147&theme=great-gatsby&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3N4N-147&theme=great-gatsby&layout=compact&custom_title=Technologies" 
   />
 
 </p>
