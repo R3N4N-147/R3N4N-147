@@ -1,6 +1,7 @@
 # 👨‍💻 Renan da Fonseca 👋
-
-**`Mechanical Engineer in career transition.`**
+**`Mechatronic Technician ✔️ `**
+**`Mechanical Engineer ✔️ `**
+**`Transition into tech 📚💻 `**
 
 Hey, how are you? Great to see you here! 😁 \
 My name is Renan, I'm Portuguese (EU citizen) and originally from São Paulo, Brazil, one of the largest metropolises in the world. 🌆 \
