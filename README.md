@@ -43,7 +43,7 @@ Here are some things about me:
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" 
 />
 <img 
     align="left" 
@@ -79,14 +79,14 @@ Here are some things about me:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
+<!-- <img 
     align="left" 
     alt="kotlin"
     title="kotlin" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
+/> -->
 
 <br/>
 <br/>
@@ -99,7 +99,7 @@ Here are some things about me:
     title="Scrum" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://worldvectorlogo.com/logos/scrum-1.svg" 
+    src=https://static.cdnlogo.com/logos/s/76/scrum.svg
 />
 
 <img 
@@ -108,28 +108,9 @@ Here are some things about me:
     title="Lean Six Sigma" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://www.abstb.com/wp-content/uploads/2022/10/greenb-6.svg
+    src=https://www.abstb.com/wp-content/uploads/2022/10/greenb-6.svg 
 />
 
 <br/>
 <br/>
 
-### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=R3N4N-147&show_icons=true&theme=great-gatsby" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3N4N-147&theme=great-gatsby&layout=compact&custom_title=Technologies" 
-  />
-
-</p>
